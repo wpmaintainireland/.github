@@ -1,7 +1,7 @@
 # WP Maintain Ireland
 
 <div align="center">
-  <img src="/wpmaintain.jpg.  https://github.com/wpmaintainireland/.github/blob/main/wpmaintain.jpg"  alt="WP Maintain Ireland logo" width="220" />
+  <img src="/.github/blob/main/wpmaintain.jpg"  alt="WP Maintain Ireland logo" width="220" />
 
   ## WordPress care without the chaos
 
