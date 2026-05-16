@@ -1,0 +1,2 @@
+# .github
+WP Maintain Ireland
