@@ -1,112 +1,127 @@
 # WP Maintain Ireland
 
 <div align="center">
+  <img src="./assets/wp-maintain-ireland-logo.svg" alt="WP Maintain Ireland logo" width="220" />
 
-### Keeping WordPress websites fast, secure, updated, and slightly less dramatic
+  ## WordPress care without the chaos
 
-[![WordPress](https://img.shields.io/badge/WordPress-Maintenance-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
-[![Location](https://img.shields.io/badge/Based%20in-Ireland-169B62?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Uptime-Strong%20Tea%20Powered-orange?style=for-the-badge)](#)
+  Keeping websites fast, secure, updated, and far less likely to ruin someone's Friday. 🇮🇪
 
+  [![WordPress](https://img.shields.io/badge/WordPress-Care%20%26%20Maintenance-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
+  [![Location](https://img.shields.io/badge/Based%20in-Ireland-169B62?style=for-the-badge)](#)
+  [![Support](https://img.shields.io/badge/Support-Calm%2C%20Clear%2C%20Reliable-F4A300?style=for-the-badge)](#)
 </div>
 
 ---
 
-## Who We Are
+## 👋 Who We Are
 
-WP Maintain Ireland helps businesses keep their WordPress websites healthy, secure, and running smoothly without the usual panic-driven "why is the homepage on fire?" moments.
+WP Maintain Ireland helps businesses, organisations, and busy teams keep their WordPress websites healthy, secure, and properly looked after.
 
-We handle the behind-the-scenes work:
+We focus on the technical maintenance work that often gets ignored until something breaks, slows down, or starts behaving like it has personal issues.
 
-- WordPress updates
-- Plugin and theme maintenance
-- Security monitoring
-- Backups and recovery
-- Performance optimisation
-- Ongoing support for real-world websites
-
-In short: we look after WordPress so our clients can look after their business.
+That means less stress, fewer surprise outages, and a site that keeps doing its job. ✨
 
 ---
 
-## What We Believe
+## 🛠️ What We Do
 
-Modern websites need more than a once-a-year login and a hopeful click on "Update All".
+We provide practical, ongoing WordPress support including:
 
-We believe WordPress maintenance should be:
+- 🔄 Core, plugin, and theme updates
+- 🔐 Security monitoring and maintenance
+- 💾 Backups and recovery planning
+- ⚡ Performance checks and optimisation
+- 🧪 Safe update workflows and troubleshooting
+- 🧹 General site health, cleanup, and upkeep
 
-- Proactive, not reactive
-- Secure, not suspiciously quiet
-- Fast, not "it loads eventually"
-- Clear, not packed with jargon
-- Reliable, even on a Friday afternoon
-
----
-
-## What You'll Find Here
-
-This GitHub profile is where we share the technical side of how we work:
-
-- Internal tools and experiments
-- Maintenance workflows
-- WordPress automation ideas
-- Helpful snippets and utilities
-- The occasional fix for problems caused by "just one more plugin"
+In short: we mind the website so our clients can mind the business.
 
 ---
 
-## Our Usual Stack
+## 🚀 What Makes Us Different
+
+There is a big difference between "the site is online" and "the site is well maintained."
+
+We aim for the second one.
+
+Our approach is:
+
+- Proactive instead of panic-driven
+- Clear instead of overly technical
+- Reliable instead of last-minute
+- Thoughtful instead of "click update and hope"
+- Human instead of helpdesk theatre
+
+We believe WordPress maintenance should feel calm, organised, and boring in the best possible way. 😌
+
+---
+
+## 📦 What You'll Find On This GitHub
+
+This profile is where we share some of the technical side of WP Maintain Ireland:
+
+- Useful tools and experiments
+- WordPress maintenance workflows
+- Automation ideas and utilities
+- Technical snippets that save time
+- The occasional solution to a plugin-related bad decision
+
+If it helps make WordPress support smarter, cleaner, or more repeatable, it belongs here.
+
+---
+
+## 🧰 Our Usual Toolkit
 
 ```txt
 WordPress
 PHP
 JavaScript
 CSS
-Hosting platforms
+Hosting and deployment platforms
 Security tooling
 Performance monitoring
-Backups, backups, and more backups
+Backups, staging, and recovery workflows
 ```
 
 ---
 
-## Our Support Philosophy
+## ❤️ Our Support Philosophy
 
-We like clean builds, sensible tooling, and websites that do not surprise anyone at 2:13am.
+We like websites that:
 
-If a site is:
+- load quickly
+- stay updated
+- remain secure
+- recover cleanly
+- do not create drama at 2:13am
 
-- slow
-- outdated
-- error-prone
-- plugin-heavy in a concerning way
-
-...we are probably already making tea and preparing a maintenance plan.
+If a site is slow, outdated, unstable, or one plugin away from a public meltdown, we're usually already thinking through the fix and brewing strong coffee. ☕
 
 ---
 
-## Working With Us
+## 🤝 Who We Work Best With
 
-WP Maintain Ireland is a good fit for teams who want:
+WP Maintain Ireland is a great fit for people who want:
 
 - dependable WordPress support
-- less downtime
-- fewer update-related surprises
-- better site performance
-- a technical partner who speaks human
+- less downtime and fewer surprises
+- a faster, healthier website
+- help understanding technical issues in plain English
+- a long-term partner instead of one-off panic support
 
 ---
 
-## Contact
+## 📬 Contact
 
-If your WordPress site is behaving strangely, loading slowly, or being held together by optimism, we should talk.
+If your WordPress site is underperforming, acting strangely, or being held together by optimism, we'd love to help.
 
 **WP Maintain Ireland**  
-Website: `add-your-website-here`  
-Email: `add-your-email-here`
+🌐 Website: `add-your-website-here`  
+📧 Email: `add-your-email-here`
 
 ---
 
 <div align="center">
-  <sub>Built with maintenance, monitoring, and a healthy distrust of outdated plugins.</sub>
+  <sub>Built with care, consistency, and a healthy suspicion of outdated plugins. 🧩</sub>
 </div>
