@@ -117,8 +117,8 @@ WP Maintain Ireland is a great fit for people who want:
 If your WordPress site is underperforming, acting strangely, or being held together by optimism, we'd love to help.
 
 **WP Maintain Ireland**  
-🌐 Website: `add-your-website-here`  
-📧 Email: `add-your-email-here`
+🌐 Website: `https://wpmaintain.ie`  
+📧 Email: `info@wpmaintain.ie`
 
 ---
 
